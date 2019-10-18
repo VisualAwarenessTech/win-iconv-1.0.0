@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="K:\Development\op3d_active\win-iconv-1.0.0\msvc\CMakeFiles\9e7d9d46ea72bb1b55053336379445c7\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9C50746A-C09E-3E0C-8912-52E595B893CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

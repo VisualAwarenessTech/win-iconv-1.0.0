@@ -1,0 +1,6 @@
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/iconv.dir
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/PACKAGE.dir
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/win_iconv.dir
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/INSTALL.dir
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/ALL_BUILD.dir
+K:/Development/op3d_active/win-iconv-1.0.0/msvc/CMakeFiles/ZERO_CHECK.dir
